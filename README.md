@@ -1,16 +1,14 @@
-### Hi there 👋
+### João Vitor Santos Pessin :grin:
 
-<!--
-**JvPessin/JvPessin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Sou estudante de Desenvolvimento Web e da vida.
+  
+  Gosto de usar as tecnologias exatamente pelo motivo que elas foram criadas:
+  resolver problemas do mundo real.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - :bowtie: Atualmente desempregado.
+- :books: Estudando Desenvolvimento Web.
+- :computer: Posso colaborar com ferramentas front-end.
+- :thumbsup: Stack: HTML, CSS, JS.
+- :no_mouth: Sobre mim: Gosto de contruir coisas úteis, ler e jogar.
+- :page_facing_up: Contatos:
+| linkedin: https://www.linkedin.com/in/jvpessin20/ | gmail: jv.pessin20@gmail.com |
