@@ -2,8 +2,7 @@
 
   Sou estudante de Desenvolvimento Web e da vida.
   
-  Gosto de usar as tecnologias exatamente pelo motivo que elas foram criadas:
-  resolver problemas do mundo real.
+  Busco aprender coisas novas e resolver problemas.
 
  - :bowtie: Atualmente desempregado.
 - :books: Estudando Desenvolvimento Web.
