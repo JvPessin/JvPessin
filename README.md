@@ -9,6 +9,6 @@
 - :books: Estudando Desenvolvimento Web.
 - :computer: Posso colaborar com ferramentas front-end.
 - :thumbsup: Stack: HTML, CSS, JS.
-- :no_mouth: Sobre mim: Gosto de contruir coisas úteis, ler e jogar.
+- :no_mouth: Sobre mim: Gosto de construir coisas úteis, ler e jogar.
 - :page_facing_up: Contatos:
 | linkedin: https://www.linkedin.com/in/jvpessin20/ | gmail: jv.pessin20@gmail.com |
